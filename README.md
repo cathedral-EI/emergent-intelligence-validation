@@ -116,20 +116,6 @@ Running `v3.py` produces:
 **Abstract:**
 > We present the first experimental validation of a proposed Law of Emergent Intelligence, which posits that intelligence emerges from the dynamic interaction of generative tension, coherence, information integration, and predictive accuracy. Using a multi-agent simulation with 120 agents across three environmental tension conditions, we systematically tested whether environmental stress (generative tension, GT) causally affects system-level emergent intelligence (EI). Across three iterations refining experimental parameters (N=240 total trials), we found a highly significant negative relationship between GT and EI (F=30.708, p<0.0001, Cohen's d=1.558), with EI strongly predicting adaptive performance (r=0.537, p<0.0001).
 
-**Citation:**
-
-@article{Tudor2025emergent,
-
-title={Experimental Validation of Emergent Intelligence},
-
-author={Jeverdan, Tudor},
-
-journal={arXiv preprint arXiv:2511.XXXXX},
-
-year={2025}
-
-}
-
 
 ## 🌊 Applications
 
